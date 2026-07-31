@@ -1,96 +1,27 @@
-<img width="1917" height="843" alt="Screenshot 2026-05-01 054914" src="https://github.com/user-attachments/assets/2970bd96-ba30-4bef-85b1-122f631d2646" />
+<h1 align="center">Hi 👋, I'm MD DANISH RAZA</h1>
+<h3 align="center">A passionate Software and full stack developer from India | Passionate about Technology & Innovation</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mddanish-31&label=Profile%20views&color=0e75b6&style=flat" alt="mddanish-31" /> </p>
 
-<h1 align="center">MD DANISH RAZA</h1>
-<h3 align="center">AIML Enthusiast | Game Developer | Cybersecutity</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mddanish-31" alt="mddanish-31" /></a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Designing+Systems.;Building+AI+Infrastructure.;Engineering+With+Discipline." />
+- 🌱 I’m currently learning **C, C++ , JAVA , DSA**
+
+- 📫 How to reach me **mddanishraza904@gmail.com**
+
+- ⚡ Fun fact **Serious and Focused on New Technologies**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/md-danish-raza-aba3b6312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-danish-raza-aba3b6312" height="30" width="40" /></a>
+<a href="https://instagram.com/md_danish_raza31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_danish_raza31" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-# 💫 About Me:
-🎓 B.Tech CSE | Adamas University<br>
-💻 Full Stack (MongoDB)<br>
-⚙️ Learning C,C++,Java,Python,JavaScript,HTML,MySQL & Data Structures
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mddanish-31&show_icons=true&locale=en&layout=compact" alt="mddanish-31" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mddanish-31&show_icons=true&locale=en" alt="mddanish-31" /></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyadeepdey-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohan.dey1206@gmail.com) 
-
----
-
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js," />
-</p>
-
-<h3 align="center">🎨 Frontend Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,htmx,vite" />
-</p>
-
-<h3 align="center">⚙️ Backend & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase" />
-</p>
-
-<h3 align="center">🗄 Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,cloudflare,netlify,vercel" />
-</p>
-
-<h3 align="center">🖥 Operating Systems</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows" />
-</p>
-
-<h3 align="center">🤖 AI & Data Science</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda" />
-</p>
-
-<h3 align="center">🎮 Game & Creative</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,figma" />
-</p>
-
-<h3 align="center">🧰 Tools & IDEs</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,gradle,maven,cmake,bash,powershell,vscode,visualstudio,eclipse,androidstudio,notion,stackoverflow" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SOUMYADEEPDEY1217&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SOUMYADEEPDEY1217&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUMYADEEPDEY1217&theme=react-dark" />
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SOUMYADEEPDEY1217&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mddanish-31&" alt="mddanish-31" /></p>
