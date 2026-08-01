@@ -30,13 +30,65 @@ I am an aspiring software engineer passionate about transforming ideas into reli
 
 ## 🛠️ Engineering Toolkit
 
+### 💻 Programming Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,mongodb,mysql,git,github,figma,vercel,netlify&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&perline=6" alt="Programming languages" />
 
 </div>
 
-<br />
+### 🌐 Web Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&perline=6" alt="Web development technologies" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" alt="Databases" />
+
+</div>
+
+### 🧰 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&perline=6" alt="Development tools" />
+
+</div>
+
+### ☁️ Deployment Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=6" alt="Deployment platforms" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mddanish-31&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mddanish-31/mddanish-31/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
 
 | Area | Focus |
 |---|---|
