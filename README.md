@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="./assets/md-danish-raza-github-banner.png" alt="MD Danish Raza — Software Engineer, Full-Stack, AI" width="100%" />
+</div>
+<div align="center">
 
-# Hi, I'm MD Danish 👋
+# Hi, I'm MD DANISH RAZA 👋
 
 ### Aspiring Software Engineer · Full-Stack Developer · AI Enthusiast
 
