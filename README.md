@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/md-danish-raza-github-banner.png" alt="MD DANISH RAZA — Software Engineer, Full-Stack, AI" width="100%" />
+  <img src="./md-danish-raza-github-banner.png" alt="MD DANISH RAZA — Software Engineer, Full-Stack, AI" width="100%" />
 </div>
 <div align="center">
 
