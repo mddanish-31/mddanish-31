@@ -33,44 +33,67 @@ I am an aspiring software engineer passionate about transforming ideas into reli
 ### 💻 Programming Languages
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&perline=6" alt="Programming languages" />
-
+  <img src="https://skillicons.dev/icons?i=c" width="52" alt="C" /><br />
+  <sub><b>C</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" /><br />
+  <sub><b>C++</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="52" alt="Java" /><br />
+  <sub><b>Java</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br />
+  <sub><b>Python</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="JavaScript" /><br />
+  <sub><b>JavaScript</b></sub>
 </div>
 
 ### 🌐 Web Development
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,nodejs&perline=6" alt="Web development technologies" />
-
+  <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML5" /><br />
+  <sub><b>HTML5</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS3" /><br />
+  <sub><b>CSS3</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js" /><br />
+  <sub><b>Node.js</b></sub>
 </div>
 
 ### 🗄️ Databases
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" alt="Databases" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb" width="52" alt="MongoDB" /><br />
+  <sub><b>MongoDB</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL" /><br />
+  <sub><b>MySQL</b></sub>
 </div>
 
 ### 🧰 Development Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,figma&perline=6" alt="Development tools" />
-
+  <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git" /><br />
+  <sub><b>Git</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" /><br />
+  <sub><b>GitHub</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="52" alt="Figma" /><br />
+  <sub><b>Figma</b></sub>
 </div>
 
 ### ☁️ Deployment Platforms
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=6" alt="Deployment platforms" />
-
+  <img src="https://skillicons.dev/icons?i=vercel" width="52" alt="Vercel" /><br />
+  <sub><b>Vercel</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" width="52" alt="Netlify" /><br />
+  <sub><b>Netlify</b></sub>
 </div>
-
----
 
 ## 📈 GitHub Activity
 
