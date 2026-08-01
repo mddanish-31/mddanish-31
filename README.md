@@ -1,18 +1,79 @@
-# 💫 About Me:
-👨‍💻 MD Danish<br><br>Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast<br><br>I'm passionate about designing scalable applications, exploring modern technologies, and transforming ideas into practical software solutions.<br><br>My interests include:<br>• Full-Stack Web Development<br>• Artificial Intelligence & Machine Learning<br>• Database Management Systems<br> Problem Solving & Software Design<br>• System Design<br>• Open Source<br><br>Currently focused on building industry-level projects and continuously improving my software engineering skills.
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,mongodb,mysql,git,github,figma,vercel,netlify&perline=8" alt="Skills" />
+</div>
 
+<br />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mddanish.raza.315428) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_danish_raza31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-danish-raza31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mddanishraza904@gmail.com) 
+<details>
+  <summary><b>More about how I like to build</b></summary>
+  <br />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mddanish-31&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mddanish-31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mddanish-31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  - **Frontend:** accessible, responsive interfaces with a focus on clear UX
+  - **Backend & data:** APIs, database design, and maintainable application logic
+  - **Problem solving:** breaking complex requirements into simple, testable parts
+  - **Continuous learning:** experimenting with modern tools while mastering core CS concepts
+</details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mddanish-31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub analytics
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mddanish-31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Danish's GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=mddanish-31&theme=tokyonight&hide_border=true" alt="Danish's GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mddanish-31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</div>
+
+## Contribution activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mddanish-31/mddanish-31/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
+
+> The snake is generated automatically by the GitHub Actions workflow below. Its first run will create the image in the `output` branch.
+
+<details>
+  <summary><b>Enable the contribution snake</b></summary>
+  <br />
+
+  Create `.github/workflows/snake.yml` in your **profile repository** (`mddanish-31/mddanish-31`) and paste:
+
+  ```yml
+  name: Generate contribution snake
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  permissions:
+    contents: write
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: mddanish-31
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ```
+
+  Then run **Actions → Generate contribution snake → Run workflow** once. GitHub will update it daily after that.
+</details>
+
+## Let's build something useful
+
+I am always interested in thoughtful engineering conversations, open-source collaboration, and projects that solve genuine problems. Feel free to connect.
+
+<div align="center">
+  <sub>Designed with curiosity, consistency, and a love for building.</sub>
+</div>
