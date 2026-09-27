@@ -1,57 +1,54 @@
+<div align="center">
+
 # mddanish-31
 
-> Recruiter-friendly proof and contact path.
+**Full-stack developer** — building things people actually use.
 
-Hi, I'm **mddanish-31**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+`FastAPI` · `React` · `PostgreSQL` · `TypeScript` · `Tailwind`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mddanish-31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=mddanish-31&theme=github-dark" alt="mddanish-31 hero section" />
-  </picture>
-</p>
+</div>
 
-## About Me
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=mddanish-31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=mddanish-31&theme=github-dark" alt="mddanish-31 about section" />
-  </picture>
-</p>
+### → currently building
 
-## Skills
+| | |
+|---|---|
+| **PaperPilot** | AI exam-paper generation — FastAPI + Postgres + RAG (pgvector) + Groq LLM, full RBAC (teacher/HOD/exam-cell), React frontend. 26 phases in, deployment-ready. |
+| **Expiry Rescue Network** | Retail inventory-rescue platform — Vite + React + TS + Tailwind + shadcn. Admin/retailer/customer dashboards, KPI-driven UI, custom animation system. |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mddanish-31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=mddanish-31&theme=github-dark" alt="mddanish-31 stack section" />
-  </picture>
-</p>
+<br>
 
-## GitHub Stats
+### → stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mddanish-31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=mddanish-31&theme=github-dark" alt="mddanish-31 stats section" />
-  </picture>
-</p>
+<div align="center">
 
-## Projects
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mddanish-31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=mddanish-31&theme=github-dark" alt="mddanish-31 projects section" />
-  </picture>
-</p>
+</div>
 
-## Connect
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=mddanish-31&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=mddanish-31&theme=github-dark" alt="mddanish-31 social section" />
-  </picture>
-</p>
+### → GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mddanish-31&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333333&icon_color=333333&bg_color=00000000" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mddanish-31&hide_border=true&background=00000000&stroke=333333&ring=333333&fire=333333&currStreakLabel=333333" height="150"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/mddanish-31)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white)](#)
+
+</div>
